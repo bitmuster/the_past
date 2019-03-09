@@ -10,18 +10,22 @@
 import subprocess
 import os
 
-past = 1552172121 + 4
+past = 1552172121 + 6
 
 filename = 'output.fortune'
 
-with open(filename, 'a') as myfile:
+for i in range(10):
+    with open(filename, 'a') as myfile:
 
-    for i in range(10):
-        with subprocess.Popen(["fortune"], stdout=subprocess.PIPE) as proc:
-            output = proc.stdout.read()
-            myfile.write(output.decode('ascii'))
+        for i in range(10):
+            with subprocess.Popen(["fortune"], stdout=subprocess.PIPE) as proc:
+                output = proc.stdout.read()
+                myfile.write(output.decode('ascii'))
 
     os.system('git add *')
     os.system('git commit --date %i -m\"message from the past\"'%past)
-    past += 1
+    past += 24*3600
+
+print(f'End time of the past is now {past}')
+
     
