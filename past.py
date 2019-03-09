@@ -10,7 +10,7 @@
 import subprocess
 import os
 
-past = 1552172121 + 6
+past = 1552172121 + 7
 
 filename = 'output.fortune'
 
@@ -24,7 +24,7 @@ for i in range(10):
 
     os.system('git add *')
     os.system('git commit --date %i -m\"message from the past\"'%past)
-    past += 24*3600
+    past += 1
 
 print(f'End time of the past is now {past}')
 
