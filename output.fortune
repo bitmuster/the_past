@@ -1132,3 +1132,43 @@ The words fly away, the writings remain.
 Sometimes a cigar is just a cigar.
 		-- Sigmund Freud
 Today is the last day of your life so far.
+I wish to say that we anarchists have never changed our position. We are anarchists as of old and still pursue the same ideals.
+            ----+- Frederica Montseny -+----
+<knghtbrd> Solver_: add users who should be messing with sound to group
+           audio..  Make sure the devices are all group audio (ls -l
+           /dev/dsp will give you the fastest indication if it's probably
+	   set right) and build a kernel with sound support for your card
+<knghtbrd> OR optionally install alsa source and build modules for that
+           with make-kpkg
+<knghtbrd> OR (not recommended) get and install evil OSS/Linux evil
+           non-free evil binary only evil drivers---but those are evil.
+	   And did I mention that it's not recommended?
+I'm pretending that we're all watching PHIL SILVERS instead of RICARDO
+MONTALBAN!
+Harry is heavily into camping, and every year in the late fall, he makes us
+all go to Assateague, which is an island on the Atlantic Ocean famous for
+its wild horses.  I realize that the concept of wild horses probably stirs
+romantic notions in many of you, but this is because you have never met any
+wild horses in person.  In person, they are like enormous hooved rats.  They
+amble up to your camp site, and their attitude is: "We're wild horses.
+We're going to eat your food, knock down your tent and poop on your shoes.
+We're protected by federal law, just like Richard Nixon."
+		-- Dave Barry, "Tenting Grandpa Bob"
+If little else, the brain is an educational toy.
+		-- Tom Robbins
+"The sixties were good to you, weren't they?"
+		-- George Carlin
+That gets us out of deciding how to spell Reg[eE]xp?|RE . . .
+Of course, then we have to decide what ref $re returns...  :-)
+		-- Larry Wall in <199710171838.LAA24968@wall.org>
+Closed weekends and holidays.
+"Life, loathe it or ignore it, you can't like it."
+		-- Marvin the paranoid android
+	"Somewhere", said Father Vittorini, "did Blake not speak of the
+Machineries of Joy?  That is, did not God promote environments, then
+intimidate these Natures by provoking the existence of flesh, toy men and
+women, such as are we all?  And thus happily sent forth, at our best, with
+good grace and fine wit, on calm noons, in fair climes, are we not God's
+Machineries of Joy?"
+	"If Blake said that", said Father Brian, "he never lived in Dublin."
+		-- R. Bradbury, "The Machineries of Joy"
