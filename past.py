@@ -10,7 +10,7 @@
 import subprocess
 import os
 
-past = 1552172121 + 2 + 1
+past = 1552172121 + 4
 
 filename = 'output.fortune'
 
@@ -21,7 +21,7 @@ with open(filename, 'a') as myfile:
             output = proc.stdout.read()
             myfile.write(output.decode('ascii'))
 
-        os.system('git add *')
-        os.system('git commit --date %i -m\"message from the past\"'%past)
-        past += 1
+    os.system('git add *')
+    os.system('git commit --date %i -m\"message from the past\"'%past)
+    past += 1
     
