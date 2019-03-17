@@ -2407,3 +2407,42 @@ Half a bee, philosophically, must ipso facto half not be.
 But half the bee has got to be, vis-a-vis its entity.  See?
 But can a bee be said to be or not to be an entire bee,
 When half the bee is not a bee, due to some ancient injury?
+Mr. Rockford, this is the Thomas Crown School of Dance and Contemporary
+Etiquette.  We aren't going to call again!  Now you want these free
+lessons or what?
+		-- "The Rockford Files"
+True, we have no conscription; that is, men are not usually forced to enlist in the army, but we have developed a far more exacting and rigid force -- necessity.
+            ----+- Emma Goldman -+----
+Dyslexia means never having to say that you're ysror.
+When I saw a sign on the freeway that said, "Los Angeles 445 miles," I said
+to myself, "I've got to get out of this lane."
+		-- Franklyn Ajaye
+Even moderation ought not to be practiced to excess.
+<Xavvy> is that really knghtbrd?
+<Knghtbrd> No, I'm an EVIL IMPOSTOR!
+<Knghtbrd> An evil impostor who LIKES HYBRID!
+<Xavvy> haha
+<Xavvy> ok, it's him :P
+There has also been some work to allow the interesting use of macro names.
+For example, if you wanted all of your "creat()" calls to include read
+permissions for everyone, you could say
+
+	#define creat(file, mode)	creat(file, mode | 0444)
+
+	I would recommend against this kind of thing in general, since it
+hides the changed semantics of "creat()" in a macro, potentially far away
+from its uses.
+	To allow this use of macros, the preprocessor uses a process that
+is worth describing, if for no other reason than that we get to use one of
+the more amusing terms introduced into the C lexicon.  While a macro is
+being expanded, it is temporarily undefined, and any recurrence of the macro
+name is "painted blue" -- I kid you not, this is the official terminology
+-- so that in future scans of the text the macro will not be expanded
+recursively.  (I do not know why the color blue was chosen; I'm sure it
+was the result of a long debate, spread over several meetings.)
+		-- From Ken Arnold's "C Advisor" column in Unix Review
+Death is a spirit leaving a body, sort of like a shell leaving the nut behind.
+		-- Erma Bombeck
+Pyros of the world... IGNITE !!!
+There are two times when a man doesn't understand a woman -- before
+marriage and after marriage.
