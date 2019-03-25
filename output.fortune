@@ -3845,3 +3845,38 @@ Hacker's Law:
 Tcl long ago fell into the Forth trap, and is now trying desperately to
 extricate itself (with some help from Sun's marketing department).
 		-- Larry Wall in <199705101952.MAA00756@wall.org>
+This file will self-destruct in five minutes.
+"The way of the world is to praise dead saints and prosecute live ones."
+		-- Nathaniel Howe
+Because . doesn't match \n.  [\0-\377] is the most efficient way to match
+everything currently.  Maybe \e should match everything.  And \E would
+of course match nothing.   :-)
+		-- Larry Wall in <9847@jpl-devvax.JPL.NASA.GOV>
+	"Do you think there's a God?"
+	"Well, ____SOMEbody's out to get me!"
+		-- Calvin and Hobbs
+Care at the Beginning
+
+What lies still is easy to grasp;
+What lies far off is easy to anticipate;
+What is brittle is easy to shatter;
+What is small is easy to disperse.
+Yet a tree broader than a man can embrace is born of a tiny shoot;
+A dam greater than a river can overflow starts with a clod of
+earth;
+A journey of a thousand miles begins at the spot under one's feet.
+Therefore deal with things before they happen;
+Create order before there is confusion.
+		-- Lao Tse, "Tao Te Ching"
+"Note that if I can get you to \"su and say\" something just by asking,
+you have a very serious security problem on your system and you should
+look into it."
+(By Paul Vixie, vixie-cron 3.0.1 installation notes)
+"Unlike most net.puritans, however, I feel that what OTHER consenting computers
+ do in the privacy of their own phone connections is their own business."
+		-- John Woods, jfw@eddie.mit.edu
+Never reveal your best argument.
+Q:	What is green and lives in the ocean?
+A:	Moby Pickle.
+I always say beauty is only sin deep.
+		-- Saki, "Reginald's Choir Treat"
