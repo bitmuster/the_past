@@ -9335,3 +9335,58 @@ anything in all the world, I would wish for more user-defined equations
 in the HP-51820A Waveform Generator Software."
 		-- Instrument News
 		[Once is too often.  Ed.]
+... an anecdote from IBM's Yorktown Heights Research Center.  When a
+programmer used his new computer terminal, all was fine when he was sitting
+down, but he couldn't log in to the system when he was standing up.  That
+behavior was 100 percent repeatable: he could always log in when sitting and
+never when standing.
+
+Most of us just sit back and marvel at such a story; how could that terminal
+know whether the poor guy was sitting or standing?  Good debuggers, though,
+know that there has to be a reason.  Electrical theories are the easiest to
+hypothesize: was there a loose wire under the carpet, or problems with static
+electricity?  But electrical problems are rarely consistently reproducible.
+An alert IBMer finally noticed that the problem was in the terminal's keyboard:
+the tops of two keys were switched.  When the programmer was seated he was a
+touch typist and the problem went unnoticed, but when he stood he was led
+astray by hunting and pecking.
+		-- "Programming Pearls" column, by Jon Bentley in CACM February 1985
+"You don't go out and kick a mad dog.  If you have a mad dog with rabies, you
+take a gun and shoot him."
+		-- Pat Robertson, TV Evangelist, about Muammar Kadhafy
+XXI:
+	It's easy to get a loan unless you need it.
+XXII:
+	If stock market experts were so expert, they would be buying stock,
+	not selling advice.
+XXIII:
+	Any task can be completed in only one-third more time than is
+	currently estimated.
+XXIV:
+	The only thing more costly than stretching the schedule of an
+	established project is accelerating it, which is itself the most
+	costly action known to man.
+XXV:
+	A revised schedule is to business what a new season is to an athlete
+	or a new canvas to an artist.
+		-- Norman Augustine
+"You tried it just for once, found it alright for kicks,
+ but now you find out you have a habit that sticks,
+ you're an orgasm addict,
+ you're always at it,
+ and you're an orgasm addict."
+		-- The Buzzcocks
+A "No" uttered from deepest conviction is better and greater than a
+"Yes" merely uttered to please, or what is worse, to avoid trouble.
+		-- Mahatma Gandhi
+Dealer prices may vary.
+You're not Dave.  Who are you?
+The trouble with you
+Is the trouble with me.
+Got two good eyes
+But we still don't see.
+		-- Robert Hunter, "Workingman's Dead"
+I would rather say that a desire to drive fast sports cars is what sets
+man apart from the animals.
+But it does move!
+		-- Galileo Galilei
