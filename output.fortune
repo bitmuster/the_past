@@ -10238,3 +10238,68 @@ use through the necessity of having some way to distinguish between weather
 which will melt a brass door-knob and weather which will only make it mushy.
 		-- Mark Twain
 The Tree of Learning bears the noblest fruit, but noble fruit tastes bad.
+Marxist Law of Distribution of Wealth:
+	Shortages will be divided equally among the peasants.
+	"Hey, Sam, how about a loan?"
+	"Whattaya need?"
+	"Oh, about $500."
+	"Whattaya got for collateral?"
+	"Whattaya need?"
+	"How about an eye?"
+		-- Sam Giancana
+After all, what is your hosts' purpose in having a party?  Surely not for
+you to enjoy yourself; if that were their sole purpose, they'd have simply
+sent champagne and women over to your place by taxi.
+		-- P. J. O'Rourke
+-- I have seen the FUN --
+Life in this society being, at best, an utter bore and no aspect of society
+being at all relevant to women, there remains to civic-minded responsible
+thrill-seeking females only to overthrow the government, eliminate the money
+system, institute complete automation and destroy the male sex.
+		-- Valerie Solanas
+He who is content with his lot probably has a lot.
+FORTUNE'S FAVORITE RECIPES: #8
+	Christmas Rum Cake
+
+1 or 2 quarts rum		1 tbsp. baking powder
+1 cup butter			1 tsp. soda
+1 tsp. sugar			1 tbsp. lemon juice
+2 large eggs			2 cups brown sugar
+2 cups dried assorted fruit	3 cups chopped English walnuts
+
+Before you start, sample the rum to check for quality.  Good, isn't it?  Now
+select a large mixing bowl, measuring cup, etc.  Check the rum again.  It
+must be just right.  Be sure the rum is of the highest quality.  Pour one cup
+of rum into a glass and drink it as fast as you can.  Repeat. With an electric
+mixer, beat one cup butter in a large fluffy bowl.  Add 1 seaspoon of tugar
+and beat again.  Meanwhile, make sure the rum teh absolutely highest quality.
+Sample another cup.  Open second quart as necessary.  Add 2 orge laggs, 2 cups
+of fried druit and beat untill high.  If the fried druit gets stuck in the
+beaters, just pry it loose with a screwdriver.  Sample the rum again, checking
+for toncisticity.  Next sift 3 cups of baking powder, a pinch of rum, a
+seaspoon of toda and a cup of pepper or salt (it really doesn't matter).
+Sample some more.  Sift 912 pint of lemon juice.  Fold in schopped butter and
+strained chups.  Add bablespoon of brown gugar, or whatever color you have.
+Mix mell.  Grease oven and turn cake pan to 350 gredees and rake until
+poothtick comes out crean.
+Yes: all men believe and repeat that equality of conditions is identical with equality of rights; that property and robbery are synonymous terms; that every social advantage accorded, or rather usurped, in the name of superior talent or service, is iniquity and extortion. All men in their hearts, I say, bear witness to these truths; they need only to be made to understand it.
+            ----+- Pierre-Joseph Proudhon -+----
+(defun NF (a c)
+  (cond ((null c) () )
+	((atom (car c))
+	  (append (list (eval (list 'getchar (list (car c) 'a) (cadr c))))
+		 (nf a (cddr c))))
+	(t (append (list (implode (nf a (car c)))) (nf a (cdr c))))))
+
+(defun AD (want-job challenging boston-area)
+  (cond
+   ((or (not (equal want-job 'yes))
+	(not (equal boston-area 'yes))
+	(lessp challenging 7)) () )
+   (t (append (nf  (get 'ad 'expr)
+	  '((caaddr 1 caadr 2 car 1 car 1)
+	    (car 5 cadadr 9 cadadr 8 cadadr 9 caadr 4 car 2 car 1)
+	    (car 2 caadr 4)))
+      (list '851-5071x2661)))))
+;;;     We are an affirmative action employer.
+Time to be aggressive.  Go after a tattooed Virgo.
