@@ -13298,3 +13298,41 @@ What is research but a blind date with knowledge?
 		-- Will Harvey
 In a whiskey it's age, in a cigarette it's taste and in a sports car
 it's impossible.
+"That boy's about as sharp as a pound of wet liver"
+		-- Foghorn Leghorn
+Absence makes the heart forget.
+He who hoots with owls by night cannot soar with eagles by day.
+Women reason with the heart and are much less often wrong than men who
+reason with the head.
+		-- DeLescure
+The Seventh Edition licensing procedures are, I suppose, still in effect,
+though I doubt that tapes are available from AT&T.  At any rate, whatever
+restrictions the license imposes still exist.  These restrictions were and
+are reasonable for places that just want to run the system, but don't allow
+many of the things that Minix was written for, like study of the source in
+classes, or by individuals not in a university or company.
+
+I've always thought that Minix was a fine idea, and competently done.
+
+As for the size of v7, wc -l /usr/sys/*/*.[chs] is 19271.
+
+		-- Dennis Ritchie, 1989
+Real World, The, n.:
+	1. In programming, those institutions at which programming may
+be used in the same sentence as FORTRAN, COBOL, RPG, IBM, etc.  2. To
+programmers, the location of non-programmers and activities not related
+to programming.  3. A universe in which the standard dress is shirt and
+tie and in which a person's working hours are defined as 9 to 5.  4.
+The location of the status quo.  5. Anywhere outside a university.
+"Poor fellow, he's left MIT and gone into the real world."  Used
+pejoratively by those not in residence there.  In conversation, talking
+of someone who has entered the real world is not unlike talking about a
+deceased person.
+Writing software is more fun than working.
+The cost of living is going up, and the chance of living is going down.
+So, if we convert SUPPLY-SIDE SOYABEAN FUTURES into HIGH-YIELD T-BILL
+INDICATORS, the PRE-INFLATIONARY risks will DWINDLE to a rate of 2
+SHOPPING SPREES per EGGPLANT!!
+I don't know what Descartes' got,
+But booze can do what Kant cannot.
+		-- Mike Cross
