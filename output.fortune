@@ -13841,3 +13841,70 @@ Let us march on till victory is won.
 A debugged program is one for which you have not yet found the conditions
 that make it fail.
 		-- Jerry Ogdin
+The answer to the Ultimate Question of Life, the Universe, and Everything was
+released with the kind permission of the Amalgamated Union of Philosophers,
+Sages, Luminaries, and Other Professional Thinking Persons.
+	A little dog goes into a saloon in the Wild West, and beckons to
+the bartender.  "Hey, bartender, gimme a whiskey."
+	The bartender ignores him.
+	"Hey bartender, gimme a whiskey!"
+	Still ignored.
+	"HEY BARMAN!!  GIMME A WHISKEY!!"
+	The bartender takes out his six-shooter and shoots the dog in the
+leg, and the dog runs out the saloon, howling in pain.
+	Three years later, the wee dog appears again, wearing boots,
+jeans, chaps, a Stetson, gun belt, and guns.  He ambles slowly into the
+saloon, goes up to the bar, leans over it, and says to the bartender,
+"I'm here t'git the man that shot muh paw."
+Put cats in the coffee and mice in the tea!
+A jury consists of twelve persons chosen to decide who has the better lawyer.
+		-- Robert Frost
+Booker's Law:
+	An ounce of application is worth a ton of abstraction.
+QOTD:
+	"I've just learned about his illness.  Let's hope it's nothing
+	trivial."
+Every man who has reached even his intellectual teens begins to suspect
+that life is no farce; that it is not genteel comedy even; that it flowers
+and fructifies on the contrary out of the profoundest tragic depths of the
+essential death in which its subject's roots are plunged.  The natural
+inheritance of everyone who is capable of spiritual life is an unsubdued
+forest where the wolf howls and the obscene bird of night chatters.
+		-- Henry James Sr., writing to his sons Henry and William
+Little Fly,
+Thy summer's play		If thought is life
+My thoughtless hand		And strength & breath,
+Has brush'd away.		And the want
+				Of thought is death,
+Am not I
+A fly like thee?		Then am I
+Or art not thou			A happy fly
+A man like me?			If I live
+				Or if I die.
+
+For I dance
+And drink & sing,
+Till some blind hand
+Shall brush my wing.
+		-- William Blake, "The Fly"
+"What man has done, man can aspire to do."
+		-- Jerry Pournelle, about space flight
+===  ALL USERS PLEASE NOTE  ========================
+
+There has been some confusion concerning MAPCAR.
+	(DEFUN MAPCAR (&FUNCTIONAL FCN &EVAL &REST LISTS)
+		(PROG (V P LP)
+		(SETQ P (LOCF V))
+	L	(SETQ LP LISTS)
+		(%START-FUNCTION-CALL FCN T (LENGTH LISTS) NIL)
+	L1	(OR LP (GO L2))
+		(AND (NULL (CAR LP)) (RETURN V))
+		(%PUSH (CAAR LP))
+		(RPLACA LP (CDAR LP))
+		(SETQ LP (CDR LP))
+		(GO L1)
+	L2	(%FINISH-FUNCTION-CALL FCN T (LENGTH LISTS) NIL)
+		(SETQ LP (%POP))
+		(RPLACD P (SETQ P (NCONS LP)))
+		(GO L)))
+We hope this clears up the many questions we've had about it.
