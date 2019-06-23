@@ -19339,3 +19339,50 @@ Won't ruin your whole day.
 You've got another program due, tomorrow, by the way.
 (chorus)
 		-- to God Rest Ye Merry Gentlemen
+... an anecdote from IBM's Yorktown Heights Research Center.  When a
+programmer used his new computer terminal, all was fine when he was sitting
+down, but he couldn't log in to the system when he was standing up.  That
+behavior was 100 percent repeatable: he could always log in when sitting and
+never when standing.
+
+Most of us just sit back and marvel at such a story; how could that terminal
+know whether the poor guy was sitting or standing?  Good debuggers, though,
+know that there has to be a reason.  Electrical theories are the easiest to
+hypothesize: was there a loose wire under the carpet, or problems with static
+electricity?  But electrical problems are rarely consistently reproducible.
+An alert IBMer finally noticed that the problem was in the terminal's keyboard:
+the tops of two keys were switched.  When the programmer was seated he was a
+touch typist and the problem went unnoticed, but when he stood he was led
+astray by hunting and pecking.
+		-- "Programming Pearls" column, by Jon Bentley in CACM February 1985
+Man who falls in blast furnace is certain to feel overwrought.
+<dhd> is there a special christmas pack for quake
+<dhd> where you get to be like the santa robot on futurama?
+<dunham> dhd: that would be a rather unbalanced game...
+<Knghtbrd> dunham: that's the idea.  ;>
+I would rather spend 10 hours reading someone else's source code than
+10 minutes listening to Musak waiting for technical support which isn't.
+		-- Dr. Greg Wettstein, Roger Maris Cancer Center
+* bma wonders if this will make the Knghtbrd .sig
+Are you a parent?  Do you sometimes find yourself unsure as to what to
+say in those awkward situations?  Worry no more...
+
+	You wouldn't understand.
+	You ask too many questions.
+	In order to be a man, you have to learn to follow orders.
+	That's for me to know and you to find out.
+	Don't let those bullies push you around.  Go in there and stick
+		up for yourself.
+	You're acting too big for your britches.
+	Well, you broke it.  Now are you satisfied?
+	Wait till your father gets home.
+	Bored?  If you're bored, I've got some chores for you.
+	Shape up or ship out.
+Tell a man there are 300 billion stars in the universe and he'll believe you.
+Tell him a bench has wet paint on it and he'll have to touch to be sure.
+You don't have to know how the computer works, just how to work the computer.
+"More software projects have gone awry for lack of calendar time than for all
+ other causes combined."
+		-- Fred Brooks, Jr., _The Mythical Man Month_
+While we prefer the republic, we must recognise and proclaim that whatever the form of government may be, so long as human society continues to be divided into different classes as a result of the hereditary inequality of occupations, of wealth, of education, and of rights, there will always be a class-restricted government and the inevitable exploitation of the majorities by the minorities.
+            ----+- Mikhail Bakunin -+----
