@@ -20747,3 +20747,56 @@ The only obligation which I have a right to assume is to do at any time what I t
             ----+- Henry David Thoreau -+----
 One way to make your old car run better is to look up the price of a new model.
 One good turn usually gets most of the blanket.
+If you keep anything long enough, you can throw it away.
+"Twas bergen and the eirie road
+Did mahwah into patterson:		"Beware the Hopatcong, my son!
+All jersey were the ocean groves,	The teeth that bite, the nails
+And the red bank bayonne.			that claw!
+					Beware the bound brook bird, and shun
+He took his belmar blade in hand:	The kearney communipaw."
+Long time the folsom foe he sought
+Till rested he by a bayway tree		And, as in nutley thought he stood,
+And stood a while in thought.		The Hopatcong with eyes of flame,
+					Came whippany through the englewood,
+One, two, one, two, and through		And garfield as it came.
+	and through
+The belmar blade went hackensack!	"And hast thou slain the Hopatcong?
+He left it dead and with it's head	Come to my arms, my perth amboy!
+He went weehawken back.			Hohokus day!  Soho!  Rahway!"
+					He caldwell in his joy.
+Did mahwah into patterson:
+All jersey were the ocean groves,
+And the red bank bayonne.
+		-- Paul Kieffer
+United Nations, New York, December 25.  The peace and joy of the Christmas
+season was marred by a proclamation of a general strike of all the military
+forces of the world.  Panic reigns in the hearts of all the patriots of
+every persuasion.  Meanwhile, fears of universal disaster sank to an all-time
+low over the world.
+		-- Isaac Asimov
+Barach's Rule:
+	An alcoholic is a person who drinks more than his own physician.
+Pickle's Law:
+	If Congress must do a painful thing,
+	the thing must be done in an odd-number year.
+#define BITCOUNT(x)	(((BX_(x)+(BX_(x)>>4)) & 0x0F0F0F0F) % 255)
+#define  BX_(x)		((x) - (((x)>>1)&0x77777777)			\
+			     - (((x)>>2)&0x33333333)			\
+			     - (((x)>>3)&0x11111111))
+
+		-- really weird C code to count the number of bits in a word
+"You show me an American who can keep his mouth shut and I'll eat him."
+		-- Newspaperman from Frank Capra's _Meet_John_Doe_
+A sequel is an admission that you've been reduced to imitating yourself.
+		-- Don Marquis
+Finish the sentence below in 25 words or less:
+
+	"Love is what you feel just before you give someone a good ..."
+
+Mail your answer along with the top half of your supervisor to:
+
+	P.O. Box 35
+	Baffled Greek, Michigan
+..you could spend *all day* customizing the title bar.  Believe me.  I
+speak from experience."
+(By Matt Welsh)
