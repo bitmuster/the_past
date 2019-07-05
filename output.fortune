@@ -21404,3 +21404,30 @@ can't help it.  I was born sneering.
 All progress is based upon a universal innate desire of every organism
 to live beyond its income.
 		-- Samuel Butler, "Notebooks"
+Would it help if I got out and pushed?
+		-- Princess Leia Organa
+Eric Raymond:  I want to live in a world where software doesn't suck.
+Richard Stallman:  Any software that isn't free sucks.
+Linus Torvalds:  I'm interested in free beer.
+Richard Stallman:  That's okay, as long as I don't have to drink it.  I
+                   don't like beer.
+		-- LinuxWorld Expo panel, 4 March 1999
+April is the cruellest month...
+		-- Thomas Stearns Eliot
+hacker, n.:
+	A master byter.
+Advancement in position.
+"An idealist is one who, on noticing that a rose smells better than a
+cabbage, concludes that it will also make better soup." - H. L. Mencken
+Animals can be driven crazy by putting too many in too small a pen.
+Homo sapiens is the only animal that voluntarily does this to himself.
+		-- Lazarus Long
+This was the most unkindest cut of all.
+		-- William Shakespeare, "Julius Caesar"
+#define BITCOUNT(x)	(((BX_(x)+(BX_(x)>>4)) & 0x0F0F0F0F) % 255)
+#define  BX_(x)		((x) - (((x)>>1)&0x77777777)			\
+			     - (((x)>>2)&0x33333333)			\
+			     - (((x)>>3)&0x11111111))
+
+		-- really weird C code to count the number of bits in a word
+A nasty looking dwarf throws a knife at you.
